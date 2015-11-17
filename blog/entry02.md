@@ -1,3 +1,4 @@
+# Hello World Done
 This week i looked up on React, Redux and React Router, mostly react. I couldn't get much more than how they are and why we should
 use them from reading, but i'm sure i will learn more once i start writing code using them. And now after i am done with the hello
 world app, i feel like began to understand how we use react and why.
